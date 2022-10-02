@@ -9,5 +9,5 @@ Microsoft.Extensions.Logging.Abstractions
 Microsoft.Extensions.Options
 Newtonsoft.Json
 
-Once you request for get customers for instance id = 1 , second request is more faster than first request thanks to mediatR response catching operation.
+Once you request for get customers for instance id = 1 , second request is more faster than first request thanks to mediatR response catching operation. For Instance first request 1000ms second is 5ms !!!
 
